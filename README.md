@@ -4,17 +4,9 @@
 ## I'm a Full Stack Engineer!!
 
 - 🌱 I’m currently learning everything DS, Algo & System Design.
-- 🥅 2022 Goals: Learn DS, Algo & System Design &Java.
+- 🥅 2023 Goals: Learn DS, Algo & System Design &Java.
 - ⚡ Fun fact: I love Gaming.
 
-
-💼 any work related queries? do reach, [email]
-
-### Connect with me
-
-[<img align="left" alt="AlaguSelvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AlaguSelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlaguSelvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
 
 <br />
 
